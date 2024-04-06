@@ -1,1 +1,1 @@
-for study django use with Devops
+for study django use with Devops chess
