@@ -1,6 +1,5 @@
-version: '2'
 services:
-    chessapp: 
+  web: 
     build: .
     ports:
      - "8000:8000"
