@@ -6,5 +6,4 @@ services:
     command: ["python", "flask_app.py", "8000"]
     ports:
       - "8000:8000"
-    stop_signal: SIGINT
 
