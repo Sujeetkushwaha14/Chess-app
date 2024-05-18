@@ -3,7 +3,7 @@ version: '1'
 services:
   web:
     build: .
-    command: ["python flask_app.py 8000"]
+    command: ["python", "flask_app.py", "8000"]
     ports:
       - "8000:8000"
 
