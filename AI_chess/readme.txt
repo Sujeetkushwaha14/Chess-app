@@ -7,5 +7,5 @@ In order to run this application on your own machine, please install flask and p
 Install flask by running:
     pip install flask
 
-Install python chess by running:
+Install python chess by running: 
     pip install python-chess[uci,gaviota]
