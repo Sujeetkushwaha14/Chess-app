@@ -27,3 +27,4 @@ stages:
         dockerfile: '$(Build.SourcesDirectory)/AI_chess/Dockerfile'
         tags: |
           $(tag)
+
